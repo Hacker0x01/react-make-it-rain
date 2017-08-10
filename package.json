@@ -1,9 +1,9 @@
 {
-  "name": "make-it-rain-react",
+  "name": "react-make-it-rain",
   "version": "0.0.1",
   "description": "React component that helps you when you feel like making it rain",
   "main": "index.js",
-  "repository": "git@github.com:Hacker0x01/make-it-rain-react.git",
+  "repository": "git@github.com:Hacker0x01/react-make-it-rain.git",
   "author": "Remon Oldenbeuving <remon@hackerone.com>",
   "license": "MIT",
   "scripts": {
