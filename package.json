@@ -1,0 +1,19 @@
+{
+  "name": "make-it-rain-react",
+  "version": "0.0.1",
+  "description": "React component that helps you when you feel like making it rain",
+  "main": "index.js",
+  "repository": "git@github.com:Hacker0x01/make-it-rain-react.git",
+  "author": "Remon Oldenbeuving <remon@hackerone.com>",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint"
+  },
+  "devDependencies": {
+    "eslint": "^4.4.1",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.2.0"
+  }
+}
