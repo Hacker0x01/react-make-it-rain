@@ -31,7 +31,7 @@ const moveDrop = drop => ({
   opacity: drop.opacity - drop.opacitySpeed
 });
 
-class RainWithState extends Component {
+class MakeItRain extends Component {
   static defaultProps = {
     drops: ["💵", "💰", "👑", "🏆"],
     dropCount: 250,
@@ -118,10 +118,10 @@ class RainWithState extends Component {
   }
 }
 
-RainWithState.propTypes = {
+MakeItRain.propTypes = {
   dropCount: PropTypes.number,
   drops: PropTypes.arrayOf(PropTypes.string),
   fontStyles: PropTypes.arrayOf(PropTypes.string)
 };
 
-export default RainWithState;
+export default MakeItRain;
